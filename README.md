@@ -22,7 +22,7 @@ Incluye endpoints de registro, login, obtención del usuario autenticado, logout
 
 ## Instalación
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
+git clone git clone https://github.com/cristian2005757/api-crud-jwt-postgresql.git
 cd TU_REPO
 composer install
 cp .env.example .env
